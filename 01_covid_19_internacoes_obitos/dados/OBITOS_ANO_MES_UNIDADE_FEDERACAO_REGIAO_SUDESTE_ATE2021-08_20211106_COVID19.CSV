@@ -1,0 +1,22 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Óbitos por Unidade da Federação e Ano/mês atendimento
+Região: 3 Região Sudeste
+Procedimento: 0303010223 TRATAMENTO DE INFECÇÃO PELO CORONAVIRUS – COVID 19
+Período:Jan/2008-Ago/2021
+"Unidade da Federação";"2020/Fev";"2020/Mar";"2020/Abr";"2020/Mai";"2020/Jun";"2020/Jul";"2020/Ago";"2020/Set";"2020/Out";"2020/Nov";"2020/Dez";"2021/Jan";"2021/Fev";"2021/Mar";"2021/Abr";"2021/Mai";"2021/Jun";"2021/Jul";"2021/Ago";"Total"
+"31 Minas Gerais";-;5;63;236;858;1535;1361;1120;785;686;1478;2117;2055;6004;4898;3876;2791;1254;462;31584
+"32 Espírito Santo";-;1;70;390;552;438;291;179;158;309;512;406;311;907;1076;523;220;122;22;6487
+"33 Rio de Janeiro";-;14;1250;2519;1230;1113;1048;921;882;1395;2295;1699;1078;3576;4121;3035;1638;938;712;29464
+"35 São Paulo";1;39;2105;3854;4267;4541;3459;2338;1610;1778;2871;4108;4285;11984;8934;8148;6893;3040;841;75096
+"Total";1;59;3488;6999;6907;7627;6159;4558;3435;4168;7156;8330;7729;22471;19029;15582;11542;5354;2037;142631
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
